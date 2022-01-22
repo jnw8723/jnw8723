@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jnw8723 (viypar)
+- 👋 Hi, I’m @jnw8723 (Jacob Hendricks)
 - 👀 I’m interested in ... space, music, movies, video games, coding
 - 🌱 I’m currently learning ... django, unity
 - 💞️ I’m looking to collaborate on ...
